@@ -1,0 +1,158 @@
+{
+"members":[
+ {
+  "MemberNO": "S010200",
+  "JoinDate": "01\/03\/2019",
+  "ExpiredDate": "01\/03\/2022",
+  "MemberStatus": "Expired",
+  "PhoneNo": "0912333550",
+  "DWEPackage": "Main"
+ },
+ {
+  "MemberNO": "S010201",
+  "JoinDate": "01\/03\/2019",
+  "ExpiredDate": "07\/04\/2022",
+  "MemberStatus": "Normal",
+  "PhoneNo": "0912123551",
+  "DWEPackage": "small"
+ },
+ {
+  "MemberNO": "S010203",
+  "JoinDate": "01\/03\/2019",
+  "ExpiredDate": "07\/05\/2022",
+  "MemberStatus": "Cancel",
+  "PhoneNo": "0912333551",
+  "DWEPackage": "Main"
+ },
+ {
+  "MemberNO": "S010204",
+  "JoinDate": "03\/01\/2021",
+  "ExpiredDate": "03\/01\/2022",
+  "MemberStatus": "Expired",
+  "PhoneNo": "0912333552",
+  "DWEPackage": "full"
+ },
+ {
+  "MemberNO": "S010205",
+  "JoinDate": "03\/01\/2021",
+  "ExpiredDate": "03\/02\/2022",
+  "MemberStatus": "Expired",
+  "PhoneNo": "0912333553",
+  "DWEPackage": "full"
+ },
+ {
+  "MemberNO": "S010208",
+  "JoinDate": "01\/01\/2022",
+  "ExpiredDate": "01\/01\/2023",
+  "MemberStatus": "Normal",
+  "PhoneNo": "0922210233",
+  "DWEPackage": "Main"
+ },
+ {
+  "MemberNO": "S010209",
+  "JoinDate": "01\/01\/2022",
+  "ExpiredDate": "01\/02\/2023",
+  "MemberStatus": "Cancel",
+  "PhoneNo": "0922210234",
+  "DWEPackage": "Main"
+ },
+ {
+  "MemberNO": "S010210",
+  "JoinDate": "01\/01\/2022",
+  "ExpiredDate": "01\/03\/2023",
+  "MemberStatus": "Normal",
+  "PhoneNo": "0922210235",
+  "DWEPackage": "Main"
+ }
+],
+"customers":[
+ {
+  "MemberNO": "S010200",
+  "ContractNo": "C020200",
+  "SignDate": "01\/03\/2019",
+  "ContractStatus": "Cancel",
+  "PhoneNo": "0912333550",
+  "DWEPackage": "Main"
+ },
+ {
+  "MemberNO": "S010201",
+  "ContractNo": "C020201",
+  "SignDate": "01\/03\/2019",
+  "ContractStatus": "Normal",
+  "PhoneNo": "0912123551",
+  "DWEPackage": "small"
+ },
+ {
+  "MemberNO": "S010200",
+  "ContractNo": "C020202",
+  "SignDate": "01\/03\/2019",
+  "ContractStatus": "Normal",
+  "PhoneNo": "0912333550",
+  "DWEPackage": "full"
+ },
+ {
+  "MemberNO": "S010203",
+  "ContractNo": "C020203",
+  "SignDate": "01\/03\/2019",
+  "ContractStatus": "Cancel",
+  "PhoneNo": "0912333551",
+  "DWEPackage": "Main"
+ },
+ {
+  "MemberNO": "S010204",
+  "ContractNo": "C020204",
+  "SignDate": "03\/01\/2021",
+  "ContractStatus": "Normal",
+  "PhoneNo": "0912333552",
+  "DWEPackage": "full"
+ },
+ {
+  "MemberNO": "S010205",
+  "ContractNo": "C020205",
+  "SignDate": "03\/01\/2021",
+  "ContractStatus": "Normal",
+  "PhoneNo": "0912333553",
+  "DWEPackage": "full"
+ },
+ {
+  "MemberNO": "S010200",
+  "ContractNo": "C020206",
+  "SignDate": "03\/01\/2021",
+  "ContractStatus": "Cancel",
+  "PhoneNo": "0912333550",
+  "DWEPackage": "Main"
+ },
+ {
+  "MemberNO": "S010201",
+  "ContractNo": "C020207",
+  "SignDate": "03\/01\/2021",
+  "ContractStatus": "Normal",
+  "PhoneNo": "0912123551",
+  "DWEPackage": "small"
+ },
+ {
+  "MemberNO": "S010208",
+  "ContractNo": "C020208",
+  "SignDate": "01\/01\/2022",
+  "ContractStatus": "Normal",
+  "PhoneNo": "0922210233",
+  "DWEPackage": "Main"
+ },
+ {
+  "MemberNO": "S010209",
+  "ContractNo": "C020209",
+  "SignDate": "01\/01\/2022",
+  "ContractStatus": "Cancel",
+  "PhoneNo": "0922210234",
+  "DWEPackage": "Main"
+ },
+ {
+  "MemberNO": "S010210",
+  "ContractNo": "C020210",
+  "SignDate": "01\/01\/2022",
+  "ContractStatus": "Normal",
+  "PhoneNo": "0922210235",
+  "DWEPackage": "Main"
+ }
+]
+}
